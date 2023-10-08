@@ -16,9 +16,7 @@ The Centralized Enable/Disable Log Plugin is a powerful and versatile tool desig
 
 - Open **Assets - Logger - Log Settings** 
 - enable or disbale log via log settings
-![Settings](logger.png)
-
-
+![Alt text](logger.png)
 ## ExampleCode
 
 ```csharp
